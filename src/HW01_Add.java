@@ -1,4 +1,4 @@
-/*
+/* yabadabadoo
 Haideți să încercăm să creăm încă un program Java. De data aceasta, programul va aduna două numere predefinite.
 
 Întâi vom crea programul.
