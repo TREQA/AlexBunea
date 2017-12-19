@@ -18,7 +18,7 @@ după care, în consolă, apare ieşirea programului, respectiv, numărul 5.
 
 public class HW01_Add {
 
-    public static void main(String[] args) {
+    public static void main(String[] args1) {
         System.out.println(2+15);
     }
 }
