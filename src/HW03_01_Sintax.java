@@ -10,21 +10,16 @@ Trebuie să facem o descriere a codului pentru documentație.
  */
 public class HW03_01_Sintax {
     public static void main(String[] args) {
-        /*
-         * primul sumator
-         */
+        /*primul sumator*/
         int operand1 = 1;
-        /*
-         * al doilea sumator
-         */
+
+        /*al doilea sumator*/
         int operand2 = 2;
-        /*
-         * calculul adunarii
-         */
+
+        /*calculul adunarii*/
         int sum = operand1 + operand2;
-        /*
-         * scrierea rezultatului
-         */
+
+        /*scrierea rezultatului*/
         System.out.println(sum);
     }
 }
