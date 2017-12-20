@@ -1,6 +1,6 @@
 /*
 Se dă codul următor:
-        int a=2,b=2;
+        int a=2,b=3;
         System.out.print("First operand: ");
         System.out.println(a);
         System.out.print("Second operand: ");
