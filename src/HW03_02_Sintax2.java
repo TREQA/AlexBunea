@@ -9,7 +9,7 @@ Se dă codul următor:
         System.out.println(a+b);
 
 Codul dă următoarea ieşire:
-        First operand: 2
+        First operand: 3
         Second operand: 3
         Sum: 5
 Trebuie să ne asigurăm că la ieşire codul afişează doar rezultatul
