@@ -16,7 +16,7 @@ Trebuie să ne asigurăm că la ieşire codul afişează doar rezultatul
 (numărul 5) şi că toate liniile de cod rămân disponibile pentru o
 utilizare viitoare.
 */
-public class HW03_02_Sintax2 {
+public class HW_01_03_ex02_Sintax2 {
     public static void main(String[] args){
 int a=2, b=3;
 /*
