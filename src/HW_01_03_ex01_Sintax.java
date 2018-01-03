@@ -8,7 +8,7 @@ System.out.println(sum);
 
 Trebuie să facem o descriere a codului pentru documentație.
  */
-public class HW03_01_Sintax {
+public class HW_01_03_ex01_Sintax {
     public static void main(String[] args) {
         //primul sumator
         int operand1 = 1;
