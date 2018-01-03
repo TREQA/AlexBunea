@@ -16,7 +16,7 @@ java Add
 după care, în consolă, apare ieşirea programului, respectiv, numărul 5.
 */
 
-public class HW_01_01_Add {
+public class HW_01_01_ex01_Add {
 
     public static void main(String[] args) {
         System.out.println(2+15);
