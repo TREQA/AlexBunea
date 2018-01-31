@@ -1,3 +1,5 @@
+
+
 /*
 Trebuie creat un program care adună două matrice.
 
@@ -11,6 +13,7 @@ A doua matrice are valoarea:
         2 3 5
         7 4 3
 */
+import java.util.Arrays;
 public class HW_02_04_ex01_Matrix
 {
     public static void main (String[] args) {
@@ -28,9 +31,7 @@ public class HW_02_04_ex01_Matrix
         matrix3[2][1] = matrix1[2][1] + matrix2[2][1];
         matrix3[2][2] = matrix1[2][2] + matrix2[2][2];
 
-        System.out.print(matrix3[0][0]);
-        System.out.print(matrix3[0][1]);
-        System.out.print(matrix3[0][2]);
-        /* NOT FINISHED*/
+        System.out.println(Arrays.deepToString(matrix3));
+        /* I don't really understand the solution at this point :)*/
     }
 }
