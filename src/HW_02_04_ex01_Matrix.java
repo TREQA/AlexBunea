@@ -32,6 +32,6 @@ public class HW_02_04_ex01_Matrix
         matrix3[2][2] = matrix1[2][2] + matrix2[2][2];
 
         System.out.println(Arrays.deepToString(matrix3));
-        /* I don't really understand the solution at this point :)*/
+        /* I don't really understand the solution at this point :) */
     }
 }
